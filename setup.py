@@ -16,7 +16,7 @@ setup(
         install_requires=[],
         entry_points={
             'console_scripts':
-                ['mmind = program.main:Main']
+                ['mmind = math_mind.main:Main']
         }
 
 )

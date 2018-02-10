@@ -1,6 +1,6 @@
 
-recursive-include program/etc *.json
-recursive-include program/gui/ui *.ui
-recursive-include program/css *.css
-recursive-include program/resource *
-exclude program/etc/stat.json
+recursive-include math_mind/etc *.json
+recursive-include math_mind/gui/ui *.ui
+recursive-include math_mind/css *.css
+recursive-include math_mind/resource *
+exclude math_mind/etc/stat.json
