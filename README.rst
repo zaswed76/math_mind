@@ -12,12 +12,9 @@ gui - PyQt5
 
 **Установка**::
 
-  pip install --upgrade git+https://github.com/zaswed76/add_table_child.git
+  pip3 install --upgrade git+https://github.com/zaswed76/math_mind.git
 
 
 
-.. note:: можно использовать pip3
 
-
-exclude add_table/etc/stat.json
 
