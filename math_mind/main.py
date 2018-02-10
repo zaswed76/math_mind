@@ -10,7 +10,7 @@ from PyQt5 import QtWidgets
 from PyQt5.QtCore import QObject, pyqtSignal, QTimer
 
 from math_mind import game_manager, game_stat, config, app, \
-    pth, style, resource
+    pth, resource
 
 from math_mind.games import add_table_game
 from math_mind.gui import main_widget, success, tool, root_settings, media
