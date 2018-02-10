@@ -1,6 +1,6 @@
 
-recursive-include add_table/etc *.json
-recursive-include add_table/gui/ui *.ui
-recursive-include add_table/css *.css
-recursive-include add_table/resource *
-exclude add_table/etc/stat.json
+recursive-include program/etc *.json
+recursive-include program/gui/ui *.ui
+recursive-include program/css *.css
+recursive-include program/resource *
+exclude program/etc/stat.json
