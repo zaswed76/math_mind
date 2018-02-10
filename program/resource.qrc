@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="/">
+    <file>resource/icons/stop_btn.png</file>
+    <file>resource/icons/start_btn.png</file>
+    <file>resource/icons/start_btn_hover.png</file>
+    <file>resource/icons/home.png</file>
+    <file>resource/icons/combo_down.png</file>
+    <file>resource/icons/success.png</file>
+    <file>resource/icons/xtwo.png</file>
+    <file>resource/icons/xtwo_select.png</file>
+  </qresource>
+</RCC>

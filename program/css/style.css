@@ -1,0 +1,74 @@
+
+QFrame#main_widget {
+    background-color: #d1d1d1;
+}
+
+QLineEdit#result {
+    font: 60pt "Source Sans Pro";
+    background-color: rgb(249, 236, 200);
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+
+}
+
+QLabel#task {
+    font: 60pt "Source Sans Pro";
+    background-color: rgb(249, 236, 200);
+    border-top: none;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+
+}
+
+GameLabel {
+    background-color: #d1d1d1;
+
+}
+
+QLabel#equal {
+    color: #555555;
+}
+
+
+QProgressBar {
+    border: 1px solid #eaeaea;
+    border-radius: 5px;
+    max-height: 6px;
+    background-color: #d5d5d5;
+}
+
+/*noinspection CssInvalidPseudoSelector*/
+QProgressBar#timer::chunk {
+    background-color: #05B8CC;
+
+}
+
+/*noinspection CssInvalidPseudoSelector*/
+QProgressBar#task_progress::chunk {
+    background-color: #1fcc4f;
+
+}
+
+AddTabSuccess {
+    background-color: #f7eac2;
+
+}
+/*noinspection CssInvalidPseudoSelector*/
+AddTabSuccess::tab#add_table {
+    background-image: url(./resource/icons/start_btn.png);
+}
+
+SuccessLabel {
+
+    background-color: #83ff73;
+    font: 17pt "Source Sans Pro";
+
+    /*border-top: 1px solid #a9a9a9;*/
+    /*border-right: 1px solid #a9a9a9;*/
+    /*border-bottom: none;*/
+    /*border-left: 1px solid #a9a9a9;*/
+}
+
