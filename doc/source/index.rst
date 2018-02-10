@@ -13,4 +13,9 @@ Welcome to math_mind's documentation!
    Components
 
 
+Indices and tables
+==================
 
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
