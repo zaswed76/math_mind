@@ -1,12 +1,12 @@
 from os.path import join, dirname
 
-import program
+import math_mind
 from setuptools import setup, find_packages
 
 setup(
         name="math_mind",
         # в __init__ пакета
-        version=program.__version__,
+        version=math_mind.__version__,
         packages=find_packages(
                 exclude=["*.exemple", "*.exemple.*", "exemple.*",
                          "exemple"]),

@@ -9,12 +9,12 @@ from PyQt5 import QtCore
 from PyQt5 import QtWidgets
 from PyQt5.QtCore import QObject, pyqtSignal, QTimer
 
-from program import game_manager, game_stat, config, app, \
-    pth, style
+from math_mind import game_manager, game_stat, config, app, \
+    pth, style, resource
 
-from program.games import add_table_game
-from program.gui import main_widget, success, tool, root_settings, media
-from program.lib import add_css, config_lib
+from math_mind.games import add_table_game
+from math_mind.gui import main_widget, success, tool, root_settings, media
+from math_mind.lib import add_css, config_lib
 
 
 def qt_message_handler(mode, context, message):

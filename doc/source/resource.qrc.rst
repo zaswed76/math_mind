@@ -26,7 +26,7 @@ resource.qrc
 
 затем набираем команду: ::
 
- pyrcc4 -o resource.qrc.py resource.qrc
+ pyrcc5 -o resource.qrc.py resource.qrc
 
 находясь в корневом каталоге
 
